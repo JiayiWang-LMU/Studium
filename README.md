@@ -1,2 +1,2 @@
 # Studium
-Hier geht es um mein Studium mit dem Bachelor Studiengang Informatik + Computerlinguistik.
+Hier geht es um mein Studium im Bachelor Studiengang Informatik + Computerlinguistik.
